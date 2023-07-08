@@ -1,2 +1,2 @@
-# LeetCodeSQL50
+# LeetCode SQL 50 Solutions
 LeetCode SQL 50 Solutions 
